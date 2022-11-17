@@ -4,7 +4,7 @@ let button =function() {
 
 $(document).ready(function() {
   $("#purpose").html("This is such a good app showcasing the linked list data structure!");
-  $("#demo2").html(`Hello, World! ${atest}`);
+  $("#demo2").html(`A Linked List <br> ${atest}`);
   $("#removeHead").click(button)
 
 
